@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/forana/skycam",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lazywei/go-opencv/opencv",
+			"Rev": "1d8dd6c04e813a368aa334242b4c73a68cb61eb2"
+		}
+	]
+}
